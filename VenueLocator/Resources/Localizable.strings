@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  VenueLocator
+
+  Created by Banerjee, Supratik on 18/07/22.
+  
+*/
+
+"venue.map" = "Map View";
+"venue.list" = "List View";
+"venue.loading" = "Loading...";
+"venue.miles" = "Miles far";
+"venue.errorText" = "Something went wrong. Please try again.";
+"venue.okay" = "Okay";
+"venue.loading" = "Loading";
+"venue.searchRadius" = "Search Radius: ";
+"venue.apply" = "Apply";
+"venue.noRecordsFound" = "No Records Found";
+"venue.increaseRadius" = "Either No Venues near location, or please increase radius";
+

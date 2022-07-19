@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EDE443FE-4D7D-4511-B9A4-BC1A7A2F8697"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CD308833-48B9-4DCF-AD96-B412B4E1FCAA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VenueLocator/VenueSearchContainer/View/VenueSearchContainerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB7992F8-F76C-4299-973F-F3C3FD0A4B46"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VenueLocator/VenueSearchContainer/View/VenueSearchContainerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "DB7992F8-F76C-4299-973F-F3C3FD0A4B46 - d6f7b2bad47a787e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (Swift.Optional&lt;Swift.Bool&gt;) -&gt; () in VenueLocator.VenueSearchContainerView.body.getter : some"
+                  moduleName = "VenueLocator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suprbanerjee/Documents/GitHub/VenueLocator/VenueLocator/VenueSearchContainer/View/VenueSearchContainerView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  uuid = "DB7992F8-F76C-4299-973F-F3C3FD0A4B46 - d6f7b2bad47a787e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (Swift.Optional&lt;Swift.Bool&gt;) -&gt; () in VenueLocator.VenueSearchContainerView.body.getter : some"
+                  moduleName = "VenueLocator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suprbanerjee/Documents/GitHub/VenueLocator/VenueLocator/VenueSearchContainer/View/VenueSearchContainerView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "98">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
